@@ -1,0 +1,2 @@
+# eli
+Terminal for Ethereum
